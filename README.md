@@ -10,3 +10,7 @@ Everything about Computer Vision
   
 # Useful Tools
 https://projector.tensorflow.org/
+
+# To Do
+1. Build a Web App that takes an image and outputs whether that image is horse or human
+2. Build a Web App that takes an image and produces similar images 
