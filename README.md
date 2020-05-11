@@ -7,3 +7,6 @@ Everything about Computer Vision
   
 # Github
   For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
+  
+# Useful Tools
+https://projector.tensorflow.org/
