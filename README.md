@@ -19,6 +19,16 @@ Everything about Computer Vision
   - Cloud Based Model Traning (traning/inference)
   - Custom Training (training/inference)
 
+# Platforms
+  - Computer/Server
+  - Website (Browser)
+  - Mobile
+    - iOS
+    - Android
+  - Edge Device
+    - Raspberry Pi
+    - Jetson
+
 # Sources
   # Books
     1. Practical Deep Learning for Cloud, Mobile, and Edge
