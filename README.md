@@ -12,6 +12,12 @@ Everything about Computer Vision
   - Segmentation
     - Semantic Segmentation
     - Instance-based Segmentation
+    
+# Approaches for training/inference 
+  - Cloud Based API (inference)
+  - Pretrained Model (inference)
+  - Cloud Based Model Traning (traning/inference)
+  - Custom Training (training/inference)
 
 # Sources
   # Books
