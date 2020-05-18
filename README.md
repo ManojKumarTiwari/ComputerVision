@@ -49,7 +49,7 @@ Everything about Computer Vision
   - Fine Tuning
   - Data Argumentation
   - Most Confident/Least Confident/ Incorrect with high Confidence
-  - Feature Extraction
+  - Feature Extraction (feature vectors or embeddings or bottleneck features)
 
 # Platforms
   - Computer/Server
@@ -62,7 +62,16 @@ Everything about Computer Vision
     - Jetson
     
 # Applications
-- Reverse Image Search Engine (Instance etrieval)
+- Reverse Image Search Engine (Instance Retrieval)
+  - Similarity Search
+    - K-Nearest Neighboors
+    - Approximate Nearest Neighbors
+      - Annoy
+      - FLANN
+      - Faiss
+      - NGT
+      - NMSLIB
+- Siamese Networks for One-Shot Face Verification
 
 # Sources
   # Books
