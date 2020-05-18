@@ -18,7 +18,7 @@ Everything about Computer Vision
   - Pretrained Model (inference)
   - Cloud Based Model Traning (traning/inference)
   - Custom Training (training/inference)
-    # Requirements
+    - # Requirements
 
 # Platforms
   - Computer/Server
