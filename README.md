@@ -1,6 +1,10 @@
 # ComputerVision
 Everything about Computer Vision
 
+# For Beginners CNN in Action
+  - Tensorflow Playgroud
+  - Andrej Karpathy’s ConvNetJS
+
 # Objects (Inputs)
   - Image
   - Video
@@ -69,9 +73,6 @@ Everything about Computer Vision
 - https://projector.tensorflow.org/ - Embedding Projector
 - http://ann-benchmarks.com/ - benchmarking environment for approximate nearest neighbor algorithms search
 - https://www.slideshare.net/anirudhkoul/deep-learning-on-mobile-2019-practitioners-guide - Presentation on DL on Mobile 2019
-- For Beginners CNN in Action
-  - Tensorflow Playgroud
-  - Andrej Karpathy’s ConvNetJS
 
 # To Do
 1. Build a Web App that takes an image and outputs whether that image is horse or human
