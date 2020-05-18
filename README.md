@@ -23,6 +23,9 @@ Everything about Computer Vision
     - Semantic Segmentation
     - Instance-based Segmentation
     
+# Model Zoo (Pretrained Models)
+  - https://keras.io/api/applications/
+    
 # Approaches for training/inference 
   - Cloud Based API (inference)
   - Pretrained Model (inference)
