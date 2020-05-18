@@ -7,6 +7,10 @@ Everything about Computer Vision
   
 # Types of Computer-Vision Tasks
   - Classification
+    - | Dataset                              | Description |
+|--------------------------------------|-------------|
+| [ImageNet](http://www.image-net.org) |             |
+|                                      |             |
   - Localization
   - Detection
   - Segmentation
