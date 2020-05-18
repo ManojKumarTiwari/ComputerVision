@@ -1,6 +1,10 @@
 # ComputerVision
 Everything about Computer Vision
 
+# Objects (Inputs)
+  - Image
+  - Video
+
 # Sources
   # Books
     1. Practical Deep Learning for Cloud, Mobile, and Edge
