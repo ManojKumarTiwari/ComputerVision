@@ -17,7 +17,7 @@ Everything about Computer Vision
     | Dataset                              | Description |
     |--------------------------------------|-------------|
     | [ImageNet](http://www.image-net.org) |             |
-    |                                      |             |
+    |             Caltech                         |             |
     
     | Model Architecture |
     |--------------------|
@@ -60,6 +60,9 @@ Everything about Computer Vision
   - Edge Device
     - Raspberry Pi
     - Jetson
+    
+# Applications
+- Reverse Image Search Engine (Instance etrieval)
 
 # Sources
   # Books
