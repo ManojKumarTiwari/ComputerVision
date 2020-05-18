@@ -4,6 +4,14 @@ Everything about Computer Vision
 # Objects (Inputs)
   - Image
   - Video
+  
+# Types of Computer-Vision Tasks
+  - Classification
+  - Localization
+  - Detection
+  - Segmentation
+    - Semantic Segmentation
+    - Instance-based Segmentation
 
 # Sources
   # Books
