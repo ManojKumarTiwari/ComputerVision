@@ -7,6 +7,8 @@ Everything about Computer Vision
   
 # Types of Computer-Vision Tasks
   - Classification
+    - Binary Classification
+    - Multiclass Classification
     
     | Dataset                              | Description |
     |--------------------------------------|-------------|
@@ -36,6 +38,15 @@ Everything about Computer Vision
       - Model Architecture
       - Framework
       - Hardware
+      
+# Some Important Steps
+  - Class Activation Map
+  - Transfer Learning
+  - Fine Tuning
+  - Data Argumentation
+  - Feature Extraction
+  - Most Confident/Least Confident/ Incorrect with high Confidence
+  - 
 
 # Platforms
   - Computer/Server
@@ -57,6 +68,7 @@ Everything about Computer Vision
 # Useful Tools and Links
 - https://projector.tensorflow.org/ - Embedding Projector
 - http://ann-benchmarks.com/ - benchmarking environment for approximate nearest neighbor algorithms search
+- https://www.slideshare.net/anirudhkoul/deep-learning-on-mobile-2019-practitioners-guide - Presentation on DL on Mobile 2019
 
 # To Do
 1. Build a Web App that takes an image and outputs whether that image is horse or human
