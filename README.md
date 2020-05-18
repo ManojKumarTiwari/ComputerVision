@@ -48,9 +48,8 @@ Everything about Computer Vision
   - Transfer Learning
   - Fine Tuning
   - Data Argumentation
-  - Feature Extraction
   - Most Confident/Least Confident/ Incorrect with high Confidence
-  - 
+  - Feature Extraction
 
 # Platforms
   - Computer/Server
