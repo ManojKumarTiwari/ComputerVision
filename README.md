@@ -19,6 +19,10 @@ Everything about Computer Vision
   - Cloud Based Model Traning (traning/inference)
   - Custom Training (training/inference)
     - ## Requirements
+      - Dataset
+      - Model Architecture
+      - Framework
+      - Hardware
 
 # Platforms
   - Computer/Server
