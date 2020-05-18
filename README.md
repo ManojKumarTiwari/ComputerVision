@@ -45,6 +45,15 @@ Everything about Computer Vision
       - Framework
       - Hardware
       
+# Tools
+  - Tensorflow Datasets - for quick implementation
+  - Tensorboard - to visulize many aspects of training
+  - What-If Tool - to compare models
+  - tf-explain - Analyze decisions made by the network
+  - Keras Tuner - automatic tuning of hyperparameters in tf.keras
+  - AutoKeras - Automates Neural Architecture Search (NAS) across different tasks like image, text, and audio classification and image detection
+  - AutoAugment - Utilizes reinforcement learning to improve the amount and diversity of data in an existing training dataset, thereby increasing accuracy
+      
 # Some Important Steps
   - Class Activation Map
   - Transfer Learning
