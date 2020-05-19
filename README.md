@@ -25,17 +25,17 @@ Everything about Computer Vision
   
 # Dataset
 
-    | Dataset                              | Description |
-    |--------------------------------------|-------------|
-    | [ImageNet](http://www.image-net.org) |             |
-    |             Caltech                         |             |
-    | Tensorflow Datasets                         |             |
+              | Dataset                              | Description |
+              |--------------------------------------|-------------|
+              | [ImageNet](http://www.image-net.org) |             |
+              |             Caltech                         |             |
+              | Tensorflow Datasets                         |             |
     
 # Model Architecture
     
-    | Model Architecture |
-    |--------------------|
-    | Resnet             |
+              | Model Architecture |
+              |--------------------|
+              | Resnet             |
     
 # Approaches for training/inference 
   - Cloud Based API (inference)
