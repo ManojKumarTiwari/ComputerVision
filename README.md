@@ -13,18 +13,6 @@ Everything about Computer Vision
   - Classification
     - Binary Classification
     - Multiclass Classification
-    
-    | Dataset                              | Description |
-    |--------------------------------------|-------------|
-    | [ImageNet](http://www.image-net.org) |             |
-    |             Caltech                         |             |
-    | Tensorflow Datasets                         |             |
-    
-    
-    | Model Architecture |
-    |--------------------|
-    | Resnet             |
-    
   - Localization
   - Detection
   - Segmentation
@@ -33,6 +21,20 @@ Everything about Computer Vision
     
 # Model Zoo (Pretrained Models)
   - https://keras.io/api/applications/
+  - https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo
+  
+# Dataset
+    | Dataset                              | Description |
+    |--------------------------------------|-------------|
+    | [ImageNet](http://www.image-net.org) |             |
+    |             Caltech                         |             |
+    | Tensorflow Datasets                         |             |
+    
+# Model Architecture
+    
+    | Model Architecture |
+    |--------------------|
+    | Resnet             |
     
 # Approaches for training/inference 
   - Cloud Based API (inference)
