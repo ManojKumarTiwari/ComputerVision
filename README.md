@@ -23,13 +23,11 @@ Everything about Computer Vision
   - https://keras.io/api/applications/
   - https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo
   
-# Dataset
-
-              | Dataset                              | Description |
-              |--------------------------------------|-------------|
-              | [ImageNet](http://www.image-net.org) |             |
-              |             Caltech                         |             |
-              | Tensorflow Datasets                         |             |
+| Dataset                              | Description |
+|--------------------------------------|-------------|
+| [ImageNet](http://www.image-net.org) |             |
+|             Caltech                         |             |
+| Tensorflow Datasets                         |             |
 
 | Model Architecture |
 |--------------------|
