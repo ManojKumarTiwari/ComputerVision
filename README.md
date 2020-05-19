@@ -19,11 +19,12 @@ Everything about Computer Vision
     - Semantic Segmentation
     - Instance-based Segmentation
     
-# Model Zoo (Pretrained Models)
+# Model Zoo
   - https://keras.io/api/applications/
   - https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo
   
 # Dataset
+
     | Dataset                              | Description |
     |--------------------------------------|-------------|
     | [ImageNet](http://www.image-net.org) |             |
