@@ -30,12 +30,10 @@ Everything about Computer Vision
               | [ImageNet](http://www.image-net.org) |             |
               |             Caltech                         |             |
               | Tensorflow Datasets                         |             |
-    
-# Model Architecture
-    
-              | Model Architecture |
-              |--------------------|
-              | Resnet             |
+
+| Model Architecture |
+|--------------------|
+| Resnet             |
     
 # Approaches for training/inference 
   - Cloud Based API (inference)
