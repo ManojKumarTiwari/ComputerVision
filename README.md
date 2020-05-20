@@ -56,6 +56,14 @@ Everything about Computer Vision
   - IBM Watson Studio
   - Gradient
   
+# Visual Recognition APIs
+  - [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
+  - [Google Cloud Vision](https://cloud.google.com/vision)
+  - [Amazon Rekognition](https://aws.amazon.com/rekognition/)
+  - [IBM Watson Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
+  - [Clarifai](https://www.clarifai.com/)
+  - [Algorithmia](https://algorithmia.com/)
+  
 # Tools
   - Tensorflow Datasets - for most optimize implementation
   - Tensorboard - to visulize many aspects of training
