@@ -45,6 +45,7 @@ Everything about Computer Vision
       
 # Local Setup
   - [Lambda Stack](https://lambdalabs.com/lambda-stack-deep-learning-software)
+  - [ROCm](https://rocmdocs.amd.com/en/latest/) - Setup of AMD GPU
       
 # Free Online Notebooks
   - Colab
