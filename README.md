@@ -43,6 +43,12 @@ Everything about Computer Vision
       - Framework
       - Hardware
       
+# Free Online Notebooks
+  - Colab
+  - [Binder](https://mybinder.org/)
+  - IBM Watson Studio
+  - Gradient
+  
 # Tools
   - Tensorflow Datasets - for most optimize implementation
   - Tensorboard - to visulize many aspects of training
