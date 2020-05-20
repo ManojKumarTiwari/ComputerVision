@@ -22,6 +22,9 @@ Everything about Computer Vision
 # Model Zoo
   - https://keras.io/api/applications/
   - https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo
+  - https://paperswithcode.com/
+  - https://modelzoo.co/
+  - https://modeldepot.io/
   
 | Dataset                              | Description |
 |--------------------------------------|-------------|
@@ -59,18 +62,27 @@ Everything about Computer Vision
   - [What-If Tool](https://pair-code.github.io/what-if-tool/) - to compare models
   - tf-explain - Analyze decisions made by the network
   - Keras Tuner - automatic tuning of hyperparameters in tf.keras
+  
+  - [For Any Question First Check this out](https://github.com/PracticalDL/Practical-Deep-Learning-Book/tree/master/code/chapter-7)
+  
   - [Hyperas](https://github.com/maxpumperla/hyperas) - Hyperparameter tunner
   - [Hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter tunner
   - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Hyperparameter tunner
   - AutoKeras - Automates Neural Architecture Search (NAS) across different tasks like image, text, and audio classification and image detection
+  - AdaNet - NAS
   - AutoAugment - Utilizes reinforcement learning to improve the amount and diversity of data in an existing training dataset, thereby increasing accuracy
+  - TensorFlow Debugger - for debugging
   - nvidia-smi - This command shows GPU statistics including utilization.
   - TensorFlow Profiler + TensorBoard - This visualizes program execution interactively in a timeline within TensorBoard.
   - OpenCV - Data Augmentation
   - Pillow - Data Augmentation
   - [Knock Knock](https://github.com/huggingface/knockknock) - Get notified when your training ends with only two additional lines of code
   - [Fast Progress Bar](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
-  - 
+  - [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+  - [NN-SVG](https://alexlenail.me/NN-SVG/) - for making neural networks diagrams
+  - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+  - [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en) - Chrome Extension to Download images
+  
       
 # Some Important Steps
   - Class Activation Map
