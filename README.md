@@ -44,9 +44,9 @@ Everything about Computer Vision
       - Hardware
       
 # Tools
-  - Tensorflow Datasets - for quick implementation
+  - Tensorflow Datasets - for most optimize implementation
   - Tensorboard - to visulize many aspects of training
-  - What-If Tool - to compare models
+  - [What-If Tool](https://pair-code.github.io/what-if-tool/) - to compare models
   - tf-explain - Analyze decisions made by the network
   - Keras Tuner - automatic tuning of hyperparameters in tf.keras
   - AutoKeras - Automates Neural Architecture Search (NAS) across different tasks like image, text, and audio classification and image detection
