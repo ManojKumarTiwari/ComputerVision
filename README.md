@@ -56,7 +56,7 @@ Everything about Computer Vision
   - IBM Watson Studio
   - Gradient
   
-# Visual Recognition APIs
+# Cloud Visual Recognition APIs
   - [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
   - [Google Cloud Vision](https://cloud.google.com/vision)
   - [Amazon Rekognition](https://aws.amazon.com/rekognition/)
