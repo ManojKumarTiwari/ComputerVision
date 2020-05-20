@@ -53,7 +53,8 @@ Everything about Computer Vision
   - AutoAugment - Utilizes reinforcement learning to improve the amount and diversity of data in an existing training dataset, thereby increasing accuracy
   - nvidia-smi - This command shows GPU statistics including utilization.
   - TensorFlow Profiler + TensorBoard - This visualizes program execution interactively in a timeline within TensorBoard.
-  
+  - OpenCV - Data Augmentation
+  - Pillow - Data Augmentation
       
 # Some Important Steps
   - Class Activation Map
