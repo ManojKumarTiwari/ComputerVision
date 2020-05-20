@@ -59,12 +59,18 @@ Everything about Computer Vision
   - [What-If Tool](https://pair-code.github.io/what-if-tool/) - to compare models
   - tf-explain - Analyze decisions made by the network
   - Keras Tuner - automatic tuning of hyperparameters in tf.keras
+  - [Hyperas](https://github.com/maxpumperla/hyperas) - Hyperparameter tunner
+  - [Hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter tunner
+  - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Hyperparameter tunner
   - AutoKeras - Automates Neural Architecture Search (NAS) across different tasks like image, text, and audio classification and image detection
   - AutoAugment - Utilizes reinforcement learning to improve the amount and diversity of data in an existing training dataset, thereby increasing accuracy
   - nvidia-smi - This command shows GPU statistics including utilization.
   - TensorFlow Profiler + TensorBoard - This visualizes program execution interactively in a timeline within TensorBoard.
   - OpenCV - Data Augmentation
   - Pillow - Data Augmentation
+  - [Knock Knock](https://github.com/huggingface/knockknock) - Get notified when your training ends with only two additional lines of code
+  - [Fast Progress Bar](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
+  - 
       
 # Some Important Steps
   - Class Activation Map
