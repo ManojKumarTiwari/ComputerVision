@@ -43,6 +43,9 @@ Everything about Computer Vision
       - Framework
       - Hardware
       
+# Local Setup
+  - [Lambda Stack](https://lambdalabs.com/lambda-stack-deep-learning-software)
+      
 # Free Online Notebooks
   - Colab
   - [Binder](https://mybinder.org/)
