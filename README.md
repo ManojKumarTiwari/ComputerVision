@@ -51,6 +51,9 @@ Everything about Computer Vision
   - Keras Tuner - automatic tuning of hyperparameters in tf.keras
   - AutoKeras - Automates Neural Architecture Search (NAS) across different tasks like image, text, and audio classification and image detection
   - AutoAugment - Utilizes reinforcement learning to improve the amount and diversity of data in an existing training dataset, thereby increasing accuracy
+  - nvidia-smi - This command shows GPU statistics including utilization.
+  - TensorFlow Profiler + TensorBoard - This visualizes program execution interactively in a timeline within TensorBoard.
+  
       
 # Some Important Steps
   - Class Activation Map
