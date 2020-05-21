@@ -100,8 +100,19 @@ Everything about Computer Vision
   - Most Confident/Least Confident/ Incorrect with high Confidence
   - Feature Extraction (feature vectors or embeddings or bottleneck features)
 
-# Platforms
+# Deployment Platforms
   - Computer/Server
+    - HTTP servers
+      - Flask, Django
+    - Hosted and managed cloud stacks
+      - Google Cloud ML
+      - Azure ML
+      - Amazon Sage Maker
+    - Manually managed serving libraries
+      - TensorFlow Serving
+      - NVIDIA TensorRT
+    - Cloud AI orchestration frameworks
+      - KubeFlow
   - Website (Browser)
   - Mobile
     - iOS
