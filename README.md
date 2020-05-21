@@ -110,7 +110,7 @@ Everything about Computer Vision
       - Amazon Sage Maker
     - Manually managed serving libraries
       - TensorFlow Serving
-        -[Using Docker](https://www.tensorflow.org/tfx/serving/docker)
+        - [Using Docker](https://www.tensorflow.org/tfx/serving/docker)
       - NVIDIA TensorRT
     - Cloud AI orchestration frameworks
       - KubeFlow
