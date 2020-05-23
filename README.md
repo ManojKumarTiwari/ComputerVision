@@ -137,9 +137,11 @@ Everything about Computer Vision
 # Sources
   # Books
     1. Practical Deep Learning for Cloud, Mobile, and Edge
+    2. Mastering OpenCV 4 with Python
   
 # Github
   For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
+  For book 2: https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python
   
 # Useful Tools and Links
 - https://projector.tensorflow.org/ - Embedding Projector
