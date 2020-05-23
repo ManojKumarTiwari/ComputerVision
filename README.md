@@ -140,8 +140,8 @@ Everything about Computer Vision
     2. Mastering OpenCV 4 with Python
   
 # Github
-  For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
-  For book 2: https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python
+  - For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
+  - For book 2: https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python
   
 # Useful Tools and Links
 - https://projector.tensorflow.org/ - Embedding Projector
