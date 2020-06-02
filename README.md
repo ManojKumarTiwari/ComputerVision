@@ -138,10 +138,12 @@ Everything about Computer Vision
   # Books
     1. Practical Deep Learning for Cloud, Mobile, and Edge
     2. Mastering OpenCV 4 with Python
+    3. Learning OpenCV 4 Computer Vision with Python 3 - Third Edition
   
 # Github
   - For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
   - For book 2: https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python
+  - For book 3: https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition
   
 # Useful Tools and Links
 - https://projector.tensorflow.org/ - Embedding Projector
