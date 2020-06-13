@@ -139,6 +139,7 @@ Everything about Computer Vision
     1. Practical Deep Learning for Cloud, Mobile, and Edge
     2. Mastering OpenCV 4 with Python
     3. Learning OpenCV 4 Computer Vision with Python 3 - Third Edition
+    4. OpenCV 4 with Python Blueprints - Second Edition
   
 # Github
   - For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
