@@ -140,6 +140,7 @@ Everything about Computer Vision
   
   ## Udemy:
     1. Deep Learning: Advanced Computer Vision (GANs, SSD, +More!) (2020)
+    
     - https://github.com/lazyprogrammer/machine_learning_examples/tree/master/cnn_class2
 
   # Books
