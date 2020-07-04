@@ -139,7 +139,7 @@ Everything about Computer Vision
   # MOOCs
   
   ## Udemy:
-    1. (Deep Learning: Advanced Computer Vision (GANs, SSD, +More!))[https://github.com/lazyprogrammer/machine_learning_examples/tree/master/cnn_class2] (2020)
+    1. [Deep Learning: Advanced Computer Vision (GANs, SSD, +More!)](https://github.com/lazyprogrammer/machine_learning_examples/tree/master/cnn_class2) (2020)
 
 
   # Books
