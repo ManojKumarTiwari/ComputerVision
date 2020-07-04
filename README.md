@@ -135,6 +135,12 @@ Everything about Computer Vision
 - Siamese Networks for One-Shot Face Verification
 
 # Sources
+  
+  # MOOCs
+    # Udemy:
+      1. (Deep Learning: Advanced Computer Vision (GANs, SSD, +More!) (2020))[https://github.com/lazyprogrammer/machine_learning_examples/tree/master/cnn_class2] 
+
+
   # Books
     1. Practical Deep Learning for Cloud, Mobile, and Edge
     2. Mastering OpenCV 4 with Python
@@ -145,6 +151,7 @@ Everything about Computer Vision
   - For book 1: https://github.com/PracticalDL/Practical-Deep-Learning-Book
   - For book 2: https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python
   - For book 3: https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition
+  - For book 4: https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints-Second-Edition
   
 # Useful Tools and Links
 - https://projector.tensorflow.org/ - Embedding Projector
